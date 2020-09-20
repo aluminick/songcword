@@ -1,7 +1,7 @@
 # songcword
 ## Description:
 
-Reads a txt file(I used ), gives the distinct words and how many times they are used.
+Reads a txt file(In this case song lyrics), gives the distinct words and how many times they are used.
 ## Motivation 
 *Curious how many unique words pop songs use*
 
